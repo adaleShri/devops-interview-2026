@@ -1,6 +1,6 @@
 # DevOps Interview Preparation Guide
 ### Git · GitHub Actions · Terraform
-#### For Engineers with 5–6 Years Experience (2026)
+#### For Engineers with 4+ Years Experience (2026)
 
 ---
 
